@@ -15,7 +15,7 @@ public class Animalia {
     }
 
     //Metodo abstraktua, beheko klase bakoitzak bere espeziea bueltatuko du (Katua,txakurra, untxia)
-    public abstract String Espeziea;
+    public abstract String espeziea();
 
     //Funtzioak=  ((ToString, adoptatu,, eginSoinua>>>
     //Espeziea, adoptatua, adina, pisua, izena
