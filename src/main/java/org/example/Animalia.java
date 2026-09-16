@@ -27,6 +27,7 @@ public abstract class Animalia {
     public String toString(){
         String egoera = adoptatua ? "adoptatua" : "adoptatu gabe";
         return "izena: " + izena + ",Espeziea: " + espeziea() + ", Adina: " + adina + ", Pisua: " + pisua + " -- Egoera: " + egoera;
+        // o directamente= ", Egoera: " + (adoptatua ? "adoptatua" : "adoptatu gabe");
     }
 
     //Getterr-ak eta Setterrak
