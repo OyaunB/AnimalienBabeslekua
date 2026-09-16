@@ -12,7 +12,7 @@ public class Txakurra  extends Animalia{
 
         @Override
         public void eginSoinua(){
-            System.out.println("Txakurrak 'grhhh.....uau-uau' egin duu");
+            System.out.println("Lotu txakurra faorez_________________uau uau.....");
         }
 
 }
