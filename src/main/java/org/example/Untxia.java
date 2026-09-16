@@ -13,6 +13,6 @@ public class Untxia extends Animalia{
 
     @Override
     public void eginSoinua(){
-        System.out.println("Untxia kantatzen hasi da");
+        System.out.println("Untxiak 'grrrrhh' egin du");
     }
 }
