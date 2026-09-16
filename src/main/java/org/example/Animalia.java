@@ -25,7 +25,7 @@ public abstract class Animalia {
     //toString metodoa datuak erakusteko
     @Override
     public String toString(){
-        return "izena: " + izena + ",Espeziea: " + espeziea() ", Adina: " + adina + ", Pisua: " + pisua + "Adoptatua: " + adoptatua;
+        return "izena: " + izena + ",Espeziea: " + espeziea() + ", Adina: " + adina + ", Pisua: " + pisua + "Adoptatua: " + adoptatua;
     }
 
     //Getterr-ak eta Setterrak
